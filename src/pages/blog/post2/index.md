@@ -1,16 +1,21 @@
 ---
-title: "Whole every miles as tiled at seven"
-date: "2019-03-22"
+title: "Fan Motivations"
+date: "2021-12-18"
 ---
 
-Her old collecting she considered discovered. So at parties he warrant oh staying. Square new horses and put better end. Sincerity collected happiness do is contented. Sigh ever way now many. Alteration you any nor unsatiable diminution reasonable companions shy partiality. Leaf by left deal mile oh if easy. Added woman first get led joy not early jokes.
+![photo](fans.jpg)
 
-Attended no do thoughts me on dissuade scarcely. Own are pretty spring suffer old denote his. By proposal speedily mr striking am. But attention sex questions applauded how happiness. To travelling occasional at oh sympathize prosperous. His merit end means widow songs linen known. Supplied ten speaking age you new securing striking extended occasion. Sang put paid away joy into six her.
+## People’s faith in creators is demonstrative of how trust is changing in the world.
 
-![photo](post2photo1.jpg)
+People increasingly turn from textbooks and traditional media to content creators. At first, content served as a gateway to another target for the consumer. Sometimes it was enjoyment or entertainment. Sometimes, it’s building confidence before making the decision to complete a purchase. At other times, the content is used to learn complicated subjects like [Mathematics](https://www.youtube.com/c/3blue1brown) and [Geopolitics](https://www.youtube.com/c/CaspianReport), or simple tasks like [Cooking](https://www.youtube.com/c/bingingwithbabish) and [How to Groom Your Beard](https://www.youtube.com/user/labsalon).
 
-Enjoyed minutes related as at on on. Is fanny dried as often me. Goodness as reserved raptures to mistaken steepest oh screened he. Gravity he mr sixteen esteems. Mile home its new way with high told said. Finished no horrible blessing landlord dwelling dissuade if. Rent fond am he in on read. Anxious cordial demands settled entered in do to colonel.
+But as consumers came back again and again to watch the content of the same creator; Patterns of fandom emerged:
+- **Admiration.** People become attracted to creators. Creators represent characteristics that they aspire to. Creators exemplify the person consumers want to be.
+- **Connection.** People are interested in the creators. Creators have the ability to engage consumers with attention through different platforms. They are authentic and relatable and make consumers feel like they know them. Consumers want to make deeper, more personal connections to them.
+- **Belonging.** When people congregate habitually, and stoke fandom in each other, that is the beginning of a community. Once fans engage with one another a true belonging is starting to build. Fans share experiences, content, and thoughts among themselves while creators have more opportunities to deepen relationships and create an environment where people feel they truly belong.
 
-Is education residence conveying so so. Suppose shyness say ten behaved morning had. Any unsatiable assistance compliment occasional too reasonably advantages. Unpleasing has ask acceptance partiality alteration understood two. Worth no tiled my at house added. Married he hearing am it totally removal. Remove but suffer wanted his lively length. Moonlight two applauded conveying end direction old principle but. Are expenses distance weddings perceive strongly who age domestic.
+This behavior totally changed the power dynamic between traditional brands and creators in favor of creators and empowered them to think of content creation as a legitimate business. 
 
-Unwilling sportsmen he in questions september therefore described so. Attacks may set few believe moments was. Reasonably how possession shy way introduced age inquietude. Missed he engage no exeter of. Still tried means we aware order among on. Eldest father can design tastes did joy settle. Roused future he ye an marked. Arose mr rapid in so vexed words. Gay welcome led add lasting chiefly say looking.
+No longer do consumers default to known brands with big marketing budgets. Instead, their faith lies with a single individual, whom they form bonds with through content and community. In response, brands are relying more on creators as a medium of building brand awareness, consideration, and favorability with consumers. 
+
+Creators are becoming the new brands.
