@@ -13,10 +13,12 @@ import {
 import {BREAKPOINT} from "../utils/constants"
 
 const Hero = styled.div`
-  margin-bottom: 20vh;
+  margin-top: 15vh;
+  margin-bottom: 35vh;
 
   @media (max-width: ${BREAKPOINT}px) {
-    margin-bottom: 15vh;
+    margin-top: 20vh;
+    margin-bottom: 45vh;
   }
 `
 const TextHome = styled.p`
@@ -27,7 +29,7 @@ const TextHome = styled.p`
   margin-bottom: 10vh;
   margin-left: auto;
   margin-right: auto;
-  max-width: 28em;
+  max-width: 20em;
   text-align: center;
 
   @media (max-width: ${BREAKPOINT}px) {
@@ -51,10 +53,9 @@ export default function Home({data}) {
       <HeaderLogo />
       <Layout>
         <Hero>
-          <HeadingXL>Lewis Gatsby Starter Blog</HeadingXL>
+          <HeadingXL>Creators' Life</HeadingXL>
           <TextHome>
-            This is a custom Gatsby starter template to start a new blog or
-            personal website.
+            Being curious about the life of online creators.
           </TextHome>
         </Hero>
         {data.allMarkdownRemark.edges.map(({node}) => (
