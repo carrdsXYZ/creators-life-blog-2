@@ -1,10 +1,10 @@
 {
-  "name": "lewis-gatsby-starter-blog",
-  "description": "A custom Gatsby starter template to start a blog or personal website.",
-  "author": "@lewislbr",
+  "name": "creators-life-blog",
+  "description": "Being curious about the life of online creators",
+  "author": "@carrds_xyz",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lewislbr/lewis-gatsby-starter-blog"
+    "url": "https://github.com/carrdsXYZ/creators-life-blog-2"
   },
   "version": "0.1.0",
   "license": "MIT",
