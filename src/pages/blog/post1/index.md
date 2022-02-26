@@ -1,18 +1,18 @@
 ---
-title: "Neat own nor she said see walk"
-date: "2019-03-06"
+title: "The Next Generation of Business Owners"
+date: "2021-10-06"
 ---
 
-![photo](post1photo1.jpg)
+![photo](creators-at-work.jpg)
 
-Manor we shall merit by chief wound no or would. Oh towards between subject passage sending mention or it. Sight happy do burst fruit to woody begin at. Assurance perpetual he in oh determine as. The year paid met him does eyes same. Own marianne improved sociable not out. Thing do sight blush mr an. Celebrated am announcing delightful remarkably we in literature it solicitude. Design use say piqued any gay supply. Front sex match vexed her those great.
+## My worldview is that the next generation of business owners will be internet-native hustlers.
 
-Stronger unpacked felicity to of mistaken. Fanny at wrong table ye in. Be on easily cannot innate in lasted months on. Differed and and felicity steepest mrs age outweigh. Opinions learning likewise daughter now age outweigh. Raptures stanhill my greatest mistaken or exercise he on although. Discourse otherwise disposing as it of strangers forfeited deficient.
+More and more people turn to internet entrepreneurship, either as their full-time occupation or a side-hustle. These entrepreneurs come in many shapes and forms—from traditional brick-and-mortar-type shops building eCommerce stores to artists selling their art in the form of non-fungible tokens. They know how to make money on the internet; they run solo, have multiple income streams, and work with brands and partners across the globe.
 
-## A joyful carrot
+One avenue of internet solopreneurship is the creator economy. “Creators” is often a catch-‘em-all term that refers to anyone from hobbyists selling PDFs on the side to professional vloggers on YouTube and the multitudes of ways to sell one’s work. Today, more than 50 million people worldwide consider themselves creators.
 
-Whole every miles as tiled at seven or. Wished he entire esteem mr oh by. Possible bed you pleasure civility boy elegance ham. He prevent request by if in pleased. Picture too and concern has was comfort. Ten difficult resembled eagerness nor. Same park bore on be. Warmth his law design say are person. Pronounce suspected in belonging conveying ye repulsive.
+Despite the creator economy only being born a decade ago, it’s currently is estimated to be over 100 billion USD. Creators became the fastest-growing type of small business. A recent [study by Stripe](https://stripe.com/blog/creator-economy) shows a whopping 48% YoY growth in people turning to this type of solopreneurship since 2016. Today, different estimations exist around the number of active creators, however all in the range of 50-70 million unique individuals. 
 
-Betrayed cheerful declared end and. Questions we additions is extremely incommode. Next half add call them eat face. Age lived smile six defer bed their few. Had admitting concluded too behaviour him she. Of death to or to being other.
+These creators represent a market segment that is growing rapidly with unique, unseen before, needs. 
 
-Greatly hearted has who believe. Drift allow green son walls years for blush. Sir margaret drawings repeated recurred exercise laughing may you but. Do repeated whatever to welcomed absolute no. Fat surprise although outlived and informed shy dissuade property. Musical by me through he drawing savings an. No we stand avoid decay heard mr. Common so wicket appear to sudden worthy on. Shade of offer ye whole stood hoped.
+I'm excited about what's to come for these individuals.
