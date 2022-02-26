@@ -22,7 +22,7 @@ export default function About({data}) {
           I'm intrigued about online solopreneurs, the creator economy, and where it's heading. 
           I'll use this blog as a platform for me to learn more about these topics.
         </TextBody>
-        <Button href="mailto:your&#64;email.com">Get in touch</Button>
+        <Button href="mailto:carrds.xyz@gmail.com">Get in touch</Button>
       </Layout>
     </>
   )
